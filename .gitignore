@@ -1,16 +1,34 @@
-# dependencies
+# Dependency directories
 /node_modules
 
-# production
-/dist
+# Distribution directories
+dist/
+build/
 
-# misc
+# Optional cache directory
+.npm
+.eslintcache
+
+# OS generated files 
 .DS_Store
-.vscode
-.ideal
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Logs
+*.log*
+logs
+
+
+# IDE files
+.vscode
+.idea
+.history
+
+
 yarn.lock
 package-lock.json
+/coverage
