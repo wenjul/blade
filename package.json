@@ -1,0 +1,8 @@
+{
+    "name": "blade",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/wenjul/blade.git",
+    "author": "wenjul",
+    "license": "MIT"
+}
