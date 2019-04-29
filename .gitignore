@@ -29,6 +29,5 @@ logs
 .history
 
 
-yarn.lock
-package-lock.json
+# testing
 /coverage
